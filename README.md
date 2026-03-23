@@ -68,7 +68,7 @@ I built the backend and helped shape the architecture.
 
 ## reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-sigurd-engh-2a454a359/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jansigurdengh)
 
 <p align="center">
   <img
