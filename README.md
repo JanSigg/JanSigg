@@ -1,67 +1,64 @@
-# Hi, I'm Jan Sigurd Engh
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&text=Jan%20Sigurd%20Engh&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Engineering%20%C2%B7%20Backend%20%C2%B7%20AI%20%C2%B7%20Scalable%20Systems&descSize=18&descAlignY=72"
+    alt="header"
+  />
+</p>
 
-**Data engineering student focused on backend systems, AI, and scalable architecture.**
+## who am i?
 
-I'm studying **Data Engineering at OsloMet**, with a strong interest in **backend development, data engineering, DevOps, databases, and applied AI**. I enjoy building systems that are practical, scalable, and designed with both engineering quality and product thinking in mind.
+Data engineering student at OsloMet, Norway.  
+Focused on backend systems, AI, and scalable architecture.
 
-## About me
+## what am i working on?
 
-- Studying **Data Engineering at OsloMet**
-- Focused on **backend development, AI, and data-oriented systems**
-- Interested in building **scalable systems** and solid architecture
-- Curious about how engineering decisions connect to **product thinking**
-- Open to **internships** and opportunities to grow as an engineer
+- RAG systems
+- Vector embeddings
+- Retrieval quality for LLM applications
+- Practical backend and data-oriented systems
 
-## What I'm working on
-
-Right now I'm learning more about:
-
-- **RAG systems**
-- **Vector embeddings**
-- How retrieval quality can be improved and tuned when working with **LLMs**
-
-## Tech I work with
+## tools i use
 
 ### Languages
-- Java
-- Go
-- Python
 
-### Frameworks and frontend
-- Next.js
-- React
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud and infrastructure
-- Azure
-- Google Cloud
-- PostgreSQL
-- Redis
-- Docker
+### Frameworks & Frontend
 
-## Featured project
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Cloud & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## featured project
 
 ### 66App
 
 A fashion social commerce platform combining content sharing with affiliate monetization, targeting Thai Gen Z and Millennials.
 
-**My role:**  
-I built the **backend** and helped shape the **architecture** of the app.
+**My role**  
+I built the backend and helped shape the architecture.
 
-**Tech stack:**
-- **Mobile client:** Flutter 3.24, Riverpod, GoRouter, Dio, PASETO
-- **API server:** Go 1.24, Chi router, sqlc
-- **Database:** PostgreSQL with 26 migrations and cursor-based pagination
-- **Cache:** Redis 7 for feed caching, sessions, and rate limiting
-- **Media storage:** MinIO / AWS S3 with presigned upload flow
-- **Search:** Meilisearch for posts, hashtags, and users
+**Tech stack**
+- Flutter
+- Go
+- PostgreSQL
+- Redis
+- MinIO / S3
+- Meilisearch
 
-This project reflects a lot of what I enjoy working on: backend design, scalable APIs, performance, and building systems that support real product needs.
+[View project](https://github.com/66App/66App)
 
-[View project](https://github.com/66App/docs)
-
-## Interests
-
-I'm especially interested in:
+## interests
 
 - Backend engineering
 - Data engineering
@@ -69,7 +66,13 @@ I'm especially interested in:
 - DevOps
 - Databases
 
-## Connect with me
+## reach me
 
-- **LinkedIn:** [jan-sigurd-engh](https://www.linkedin.com/in/jan-sigurd-engh-2a454a359/)
-- **Email:** [jansigurd0901@gmail.com](mailto:jansigurd0901@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"
+    alt="footer"
+  />
+</p>
